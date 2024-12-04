@@ -7,11 +7,11 @@
 금: (11)자바  <br>
 
 기말고사<br>
-화: <br>
+화: (12)실리, (2)유말쓰 <br>
 수: <br>
 목: <br>
-금: <br>
-시간표 언제 뜨노..
+금: (11)자바 <br>
+
 
 [개인 노션]   <br>
 링크 : <https://distinct-popcorn-027.notion.site/93742f2829b1422cb1262272b64beddb?pvs=4>
